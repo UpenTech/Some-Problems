@@ -1,0 +1,13 @@
+F:\Difference\Difference\bin\Debug\netcoreapp3.1\Difference.exe
+F:\Difference\Difference\bin\Debug\netcoreapp3.1\Difference.deps.json
+F:\Difference\Difference\bin\Debug\netcoreapp3.1\Difference.runtimeconfig.json
+F:\Difference\Difference\bin\Debug\netcoreapp3.1\Difference.runtimeconfig.dev.json
+F:\Difference\Difference\bin\Debug\netcoreapp3.1\Difference.dll
+F:\Difference\Difference\bin\Debug\netcoreapp3.1\Difference.pdb
+F:\Difference\Difference\obj\Debug\netcoreapp3.1\Difference.csprojAssemblyReference.cache
+F:\Difference\Difference\obj\Debug\netcoreapp3.1\Difference.AssemblyInfoInputs.cache
+F:\Difference\Difference\obj\Debug\netcoreapp3.1\Difference.AssemblyInfo.cs
+F:\Difference\Difference\obj\Debug\netcoreapp3.1\Difference.csproj.CoreCompileInputs.cache
+F:\Difference\Difference\obj\Debug\netcoreapp3.1\Difference.dll
+F:\Difference\Difference\obj\Debug\netcoreapp3.1\Difference.pdb
+F:\Difference\Difference\obj\Debug\netcoreapp3.1\Difference.genruntimeconfig.cache
