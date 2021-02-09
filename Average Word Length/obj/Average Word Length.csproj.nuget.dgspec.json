@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Some-Problems\\Difference\\Difference.csproj": {}
+    "F:\\Some-Problems\\Average Word Length\\Average Word Length.csproj": {}
   },
   "projects": {
-    "F:\\Some-Problems\\Difference\\Difference.csproj": {
+    "F:\\Some-Problems\\Average Word Length\\Average Word Length.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Some-Problems\\Difference\\Difference.csproj",
-        "projectName": "Difference",
-        "projectPath": "F:\\Some-Problems\\Difference\\Difference.csproj",
+        "projectUniqueName": "F:\\Some-Problems\\Average Word Length\\Average Word Length.csproj",
+        "projectName": "Average Word Length",
+        "projectPath": "F:\\Some-Problems\\Average Word Length\\Average Word Length.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "F:\\Some-Problems\\Difference\\obj\\",
+        "outputPath": "F:\\Some-Problems\\Average Word Length\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",

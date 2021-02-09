@@ -1,0 +1,16 @@
+F:\Some-Problems\Average Word Length\bin\Debug\net5.0\Average Word Length.exe
+F:\Some-Problems\Average Word Length\bin\Debug\net5.0\Average Word Length.deps.json
+F:\Some-Problems\Average Word Length\bin\Debug\net5.0\Average Word Length.runtimeconfig.json
+F:\Some-Problems\Average Word Length\bin\Debug\net5.0\Average Word Length.runtimeconfig.dev.json
+F:\Some-Problems\Average Word Length\bin\Debug\net5.0\Average Word Length.dll
+F:\Some-Problems\Average Word Length\bin\Debug\net5.0\ref\Average Word Length.dll
+F:\Some-Problems\Average Word Length\bin\Debug\net5.0\Average Word Length.pdb
+F:\Some-Problems\Average Word Length\obj\Debug\net5.0\Average Word Length.csprojAssemblyReference.cache
+F:\Some-Problems\Average Word Length\obj\Debug\net5.0\Average Word Length.GeneratedMSBuildEditorConfig.editorconfig
+F:\Some-Problems\Average Word Length\obj\Debug\net5.0\Average Word Length.AssemblyInfoInputs.cache
+F:\Some-Problems\Average Word Length\obj\Debug\net5.0\Average Word Length.AssemblyInfo.cs
+F:\Some-Problems\Average Word Length\obj\Debug\net5.0\Average Word Length.csproj.CoreCompileInputs.cache
+F:\Some-Problems\Average Word Length\obj\Debug\net5.0\Average Word Length.dll
+F:\Some-Problems\Average Word Length\obj\Debug\net5.0\ref\Average Word Length.dll
+F:\Some-Problems\Average Word Length\obj\Debug\net5.0\Average Word Length.pdb
+F:\Some-Problems\Average Word Length\obj\Debug\net5.0\Average Word Length.genruntimeconfig.cache
